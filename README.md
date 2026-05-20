@@ -22,50 +22,41 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
-Create a directory named "my-folder"
 <img width="427" height="47" alt="image" src="https://github.com/user-attachments/assets/b8ae3350-f09c-4f04-b570-4b3c65436c4a" />
+Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-
-Remove the directory "my-folder"
 <img width="443" height="53" alt="image" src="https://github.com/user-attachments/assets/e4843df8-0c4d-450c-ade0-e2526242b587" />
-
+Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-Create the file Rose.txt
 <img width="665" height="443" alt="Screenshot 2026-05-20 110644" src="https://github.com/user-attachments/assets/efd326e7-a34b-4e9f-a891-83cbe922ce59" />
-
+Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-Create the file hello.txt using echo and redirection
 <img width="707" height="352" alt="image" src="https://github.com/user-attachments/assets/b186c650-8d70-48cd-9750-2c7426c8d17b" />
-
+Create the file hello.txt using echo and redirection
 
 
 ## COMMAND AND OUTPUT
-Copy the file hello.txt into the file hello1.txt
 <img width="570" height="197" alt="image" src="https://github.com/user-attachments/assets/fea431cd-a038-40a1-8663-c66b35893f9b" />
-
+Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-Remove the file hello1.txt
 <img width="443" height="120" alt="image" src="https://github.com/user-attachments/assets/ddcd6891-5631-441b-9582-412ea37573c2" />
+Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
-List out the file hello1.txt in the current directory
 <img width="435" height="138" alt="image" src="https://github.com/user-attachments/assets/39f898ee-20f9-41df-a398-dff05d952d73" />
-
+List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-
-List out all the associated file extensions 
 <img width="452" height="366" alt="image" src="https://github.com/user-attachments/assets/a8aa8f68-7450-4257-b872-a4d4413aeede" />
-
+List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-Compare the file hello.txt and rose.txt
 <img width="531" height="262" alt="image" src="https://github.com/user-attachments/assets/a2a41feb-910d-4a39-a547-e4bdf7ecc715" />
-
+Compare the file hello.txt and rose.txt
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
